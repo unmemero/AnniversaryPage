@@ -66,7 +66,7 @@ function renderImages() {
     });
 }
 
-const pwd = 'Te Amo mi Chelis <3';
+const pwd = 'Te Amo mi Chelis<3';
 
 if (getCookie('access') === 'true') {
     renderImages();
