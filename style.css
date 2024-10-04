@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font: sans-serif;
+  background: black;
+  color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: black;
+}
+.container #password {
+  background: black;
+  border: none;
+  color: green;
+}
+.container #password:focus {
+  outline: none;
+}
+.container h1 {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
